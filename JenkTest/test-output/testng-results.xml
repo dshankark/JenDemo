@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="myjenk" duration-ms="58" started-at="2018-01-12T14:07:56Z" finished-at="2018-01-12T14:07:56Z">
+    <groups>
+    </groups>
+    <test name="NewTest" duration-ms="58" started-at="2018-01-12T14:07:56Z" finished-at="2018-01-12T14:07:56Z">
+      <class name="myjenk.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:myjenk.NewTest@28feb3fa]" name="beforeTest" is-config="true" duration-ms="15" started-at="2018-01-12T19:37:56Z" finished-at="2018-01-12T19:37:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:myjenk.NewTest@28feb3fa]" name="f" duration-ms="9" started-at="2018-01-12T19:37:56Z" finished-at="2018-01-12T19:37:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:myjenk.NewTest@28feb3fa]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-01-12T19:37:56Z" finished-at="2018-01-12T19:37:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- myjenk.NewTest -->
+    </test> <!-- NewTest -->
+  </suite> <!-- myjenk -->
+</testng-results>
