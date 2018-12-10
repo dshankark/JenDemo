@@ -1,3 +1,5 @@
-shankarkumar branch1 edit
-
-ed
+<<<<<<< HEAD
+shankarkumar edited by branch1
+=======
+File adited  
+>>>>>>> branch1
